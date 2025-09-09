@@ -4,3 +4,8 @@
   --ui-bg: #ffffff;
   --muted: #6b7280;
 }
+
+.modal-scroll {
+max-height: 70vh;
+overflow: auto;
+}
